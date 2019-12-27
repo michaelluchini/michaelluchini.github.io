@@ -548,7 +548,7 @@ ul#nav li.current a { color: #F06000; }
 .popup-modal {
 	max-width: 550px;
 	height: 200px;
-	background: #fff;
+	background: #FFD700;
 	position: absolute;
 	margin: 0 auto;
 }
