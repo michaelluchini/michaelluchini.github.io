@@ -208,7 +208,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #0F2027; }
 
 
 /* ------------------------------------------------------------------ */
@@ -305,7 +305,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #resume .info {
    font: 18px/24px 'librebaskerville-italic', serif;
-   color: #F06000;
+   color: #0F2027;
    margin-bottom: 18px;
    margin-top: 9px;
 }
@@ -1005,7 +1005,7 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 42px;
-    color: #F06000;
+    color: #0F2027;
 }
 
 footer .social-links li:first-child { margin-left: 0; }
