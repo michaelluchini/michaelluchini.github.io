@@ -368,22 +368,22 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: photoshop 2s ease;
 }
 .Writing {
-  	width: 85%;
+  	width: 90%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
 .Editing {
-  	width: 63%;
+  	width: 75%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
 .Public_Speaking {
-  	width: 60%;
+  	width: 70%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
 .Research_Skills {
-  	width: 80%;
+  	width: 85%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
