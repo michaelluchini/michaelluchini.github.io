@@ -460,8 +460,9 @@ ul#nav li.current a { color: #243B55; }
    letter-spacing: 1px;
 }
 #portfolio h1 span {
-   border-bottom: 10px solid;
+   border-bottom: 3px solid;
    padding-bottom: 6px;
+   margin: 6px;
 }
 
 /* Portfolio Content */
@@ -470,6 +471,7 @@ ul#nav li.current a { color: #243B55; }
    background: #fff;
    overflow: hidden;
    position: relative;
+	height: 300px;
 
    -webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
